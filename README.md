@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantag17&label=Profile%20views&color=0e75b6&style=flat" alt="vedantag17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantag17" alt="vedantag17" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/vedant_a17" target="blank"><img src="https://img.shields.io/twitter/follow/vedant_a17?logo=twitter&style=for-the-badge" alt="vedant_a17" /></a> </p>
 
