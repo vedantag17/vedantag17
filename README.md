@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 <h1 align="center">Hi 👋, I'm Vedant Agrawal</h1>
 <h3 align="center">A student of Artificial Intelligence and Data Science.</h3>
 
