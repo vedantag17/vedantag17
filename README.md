@@ -1,5 +1,5 @@
 ### 
-[![MasterHead]([https://unsplash.com/photos/nUQEA2kZMZw](https://images.unsplash.com/photo-1636009559567-7a315a74e0e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80))](https://images.unsplash.com/photo-1680160414832-9e09627f3f70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mnx8fGVufDB8fHx8&w=1000&q=80)]
+
 <h1 align="center">Hi 👋, I'm Vedant Agrawal</h1>
 <h3 align="center">A student in Artificial Intelligence and Data Science.</h3>
 
