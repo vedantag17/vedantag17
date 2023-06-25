@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Twitter Bot**
+- 🔭 I’m currently working on **Private GPT**
 
 - 🌱 I’m currently learning **Machine learning**
 
