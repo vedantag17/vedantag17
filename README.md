@@ -1,4 +1,4 @@
-![IMG_20240225_113346](https://github.com/vedantag17/vedantag17/assets/118207011/4f406580-35db-4733-93dd-e1ffe9405197)
+
 ### 
 
 <h1 align="center">Hi 👋, I'm Vedant Agrawal</h1>
